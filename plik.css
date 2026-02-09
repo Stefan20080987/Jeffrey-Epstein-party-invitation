@@ -1,4 +1,5 @@
 .body {
   height: 40vmin;
   pointer-events: none;
+  align-items: center;
 }
